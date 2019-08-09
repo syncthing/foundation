@@ -26,8 +26,9 @@ listed below, individually.
 
 ## Members of the Board
 
-As of 2019-08-08 these are the members of the board:
+As of 2019-08-09 these are the members of the board:
 
-- Anna Borg (anna - nym.se)
+- Audrius Butkevicius (audrius.butkevicius - gmail.com)
 - Eser Gözcü (gozcueser - gmail.com)
 - Jakob Borg (jakob - kastelo.net)
+
