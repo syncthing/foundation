@@ -4,6 +4,8 @@ This repository contains the official, public documents of the Syncthing
 Foundation. The Syncthing Foundation is a Swedish non-profit foundation
 ("stiftelse").
 
+The foundation website is at https://www.syncthing.org/.
+
 ## Purpose
 
 The foundation bylaws have this to say about the purpose of the foundation:
@@ -21,14 +23,14 @@ specific projects that further the cause.
 ## Contact
 
 The Syncthing Foundation can be officially reached at
-foundation@syncthing.net. You can also reach out to the board members,
+foundation@syncthing.org. You can also reach out to the board members,
 listed below, individually.
 
 ## Members of the Board
 
 As of 2019-08-09 these are the members of the board:
 
-- Audrius Butkevicius (audrius.butkevicius - gmail.com)
-- Eser Gözcü (gozcueser - gmail.com)
-- Jakob Borg (jakob - kastelo.net)
+- Audrius Butkevicius (audrius@syncthing.org)
+- Eser Gözcü (eser@syncthing.org)
+- Jakob Borg (jakob@syncthing.org)
 
