@@ -31,7 +31,5 @@ listed below, individually.
 As of 2020-09-30 these are the members of the board:
 
 - Audrius Butkevicius (audrius@syncthing.org)
-- Eser Gözcü (eser@syncthing.org)
 - Jakob Borg (jakob@syncthing.org)
 - Simon Frei (simon@syncthing.org)
-
