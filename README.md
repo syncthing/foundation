@@ -15,7 +15,7 @@ The foundation bylaws have this to say about the purpose of the foundation:
 > foundation can provide grants on its own initiative, or by application
 > according to the rules put forth by the board.
 
-This is quite general, and in practice it means the foundation pays for the
+This purpose is quite general; in practice, it means the foundation pays for the
 infrastructure required to run Syncthing (like this website, discovery
 servers, build servers, and so on), but is open to providing grants for
 specific projects that further the cause.
@@ -24,11 +24,11 @@ specific projects that further the cause.
 
 The Syncthing Foundation can be officially reached at
 foundation@syncthing.org. You can also reach out to the board members,
-listed below, individually.
+listed below individually.
 
 ## Members of the Board
 
-As of 2020-09-30 these are the members of the board:
+As of 2020-09-30, these are the members of the board:
 
 - Audrius Butkevicius (audrius@syncthing.org)
 - Jakob Borg (jakob@syncthing.org)
